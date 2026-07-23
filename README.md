@@ -43,6 +43,6 @@ git clone https://github.com/Ghan539/Gshyam_Resume.git
 
 GitHub: https://github.com/Ghan539
 
-LinkedIn: *(Add your LinkedIn profile)*
+LinkedIn: https://www.linkedin.com/in/ghanshyam-seervi-1b4b602a9/
 
-Email: *(Add your email address)*
+Email: ghanshyamseervi1296@gmail.com
